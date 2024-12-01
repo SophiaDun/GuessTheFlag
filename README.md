@@ -18,7 +18,7 @@ interface with animations and a leaderboard system.
 ## Screens
 
 1. **Index Screen**: Landing page with navigation to Login and Sign Up.
-2. **LogIn Screen**: Users can log in with their email and password.
+2. **Login Screen**: Users can log in with their email and password.
 3. **Sign-Up Screen**: Users can sign up with a username, email, and password.
 4. **Home Screen**: Displays user profile, progress, and leaderboard.
 5. **Game Screen**: Main game interface for guessing flags.
